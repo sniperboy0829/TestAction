@@ -42,3 +42,4 @@ jobs:
           branch: dev
           title: 'auto pr'
           labels: 'automated'
+          draft: true
